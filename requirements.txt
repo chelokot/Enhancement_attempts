@@ -9,3 +9,4 @@ wandb == 0.13.8
 opencv-python == 4.5.5.64
 matplotlib == 3.5.1
 torchvision == 0.13.1
+git+https://github.com/arsenyinfo/EnlightenGAN-inference
